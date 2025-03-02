@@ -165,6 +165,8 @@ USE_L10N = True
 
 USE_TZ = True
 
+CLERK_PUBLISHABLE_KEY = "pk_test_Y3VkZGx5LWdvcmlsbGEtMTcuY2xlcmsuYWNjb3VudHMuZGV2JA"
+
 
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/3.2/howto/static-files/
